@@ -1,0 +1,22 @@
+
+.template-container{
+    padding:60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.template-image{
+    width:300px !important;
+    height: 400px;
+    margin: 20px;
+}
+.templates{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
